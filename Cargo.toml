@@ -1,0 +1,12 @@
+[package]
+name = "rucron-client"
+version = "0.1.0"
+authors = ["Al <gLiu962@aucklanduni.ac.nz>"]
+edition = "2018"
+repository = "https://github.com/rucron/rucron-client"
+license = "Apache-2.0"
+readme = "README.md"
+description = "A placeholder for RuCron client"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
